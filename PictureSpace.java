@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 
 public class PictureSpace  {
 
-        public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException{
             GUIPicture guiPicture = new GUIPicture();
             
             guiPicture.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -16,4 +16,3 @@ public class PictureSpace  {
         }
 
 }
-
